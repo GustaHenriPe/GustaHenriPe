@@ -12,7 +12,7 @@ I learn best by building, and I'm always diving into new technologies.
 - 🧠 Always curious and passionate about learning
 - 🔧 Focused on backend development using Java & Spring Boot
 - 🎯 Interested in clean code, API design, and scalable systems
-- 🚀 Currently working on fullstack personal projects with Angular and PostgreSQL
+- 🚀 Currently working on Avanade as a Associate Full-Stack Developer.
   </br>
 
 ### 💻 My Stack:
