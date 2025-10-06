@@ -54,9 +54,9 @@ I learn best by building, and I'm always diving into new technologies.
 
 <div align="center">
 
-  <a href="https://github.com/GustaHenriPe/angular-buzzfeed-quizz-clone">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GustaHenriPe&repo=angular-buzzfeed-quizz-clone&theme=tokyonight&hide_border=true" />
-  </a>
+  <a href="https://github.com/GustaHenriPe/EduWise">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GustaHenriPe&repo=EduWise&theme=tokyonight&hide_border=true" />
+</a>
 
   <a href="https://github.com/GustaHenriPe/decola-tech-2025-medical-appointments">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GustaHenriPe&repo=decola-tech-2025-medical-appointments&theme=tokyonight&hide_border=true" />
